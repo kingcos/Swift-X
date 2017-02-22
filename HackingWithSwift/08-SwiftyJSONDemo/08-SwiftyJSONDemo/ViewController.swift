@@ -42,7 +42,8 @@ class ViewController: UITableViewController {
         }
         
         // 报错
-        showError()
+//        showError()
+        tableView.performSelector(onMainThread: #selector(showError), with: nil, waitUntilDone: false)
     }
     
     func parse(json: JSON) {
@@ -54,7 +55,8 @@ class ViewController: UITableViewController {
                          "content": content])
         }
         
-        tableView.reloadData()
+//        tableView.reloadData()
+        tableView.performSelector(onMainThread: #selector(UITableView.reloadData), with: nil, waitUntilDone: false)
     }
     
     func showError() {
