@@ -11,13 +11,14 @@ Learning Swift &amp; iOS Dev with X Days of Swift, X Projects of Swift, etc.
 
 - R.W.
   - [TableView-Demo](RWVideoTutorial/TableView-Demo)
+  - [CALayer-Demo](RWVideoTutorial/CALayer-Demo)
 
 ## Reference
 
 - [allenwong/30DaysofSwift](https://github.com/allenwong/30DaysofSwift)
   - Latest Commit `42c0c00` on Feb 7, 2017
 - [soapyigu/Swift30Projects](https://github.com/soapyigu/Swift30Projects)
-  - Latest Commit `527ed38` on Feb 11, 2017
+  - Latest Commit `f6a5837` on Apr 14, 2017
 - [shinobicontrols/iOS10-day-by-day](https://github.com/shinobicontrols/iOS10-day-by-day)
   - Latest Commit `2ef2643` on Dec 7, 2016
 - [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift)
