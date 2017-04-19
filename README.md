@@ -13,6 +13,9 @@ Learning Swift &amp; iOS Dev with X Days of Swift, X Projects of Swift, etc.
   - [TableView-Demo](RWVideoTutorial/TableView-Demo)
   - [CALayer-Demo](RWVideoTutorial/CALayer-Demo)
 
+- Swift30Projects
+  - [01-Gallery](Swift30Projects/01-Gallery)
+
 ## Reference
 
 - [allenwong/30DaysofSwift](https://github.com/allenwong/30DaysofSwift)
