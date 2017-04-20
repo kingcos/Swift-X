@@ -16,6 +16,7 @@ Learning Swift &amp; iOS Dev with X Days of Swift, X Projects of Swift, etc.
 - Swift30Projects
   - [01-Gallery](Swift30Projects/01-Gallery)
   - [02-FormWeibo](Swift30Projects/02-FormWeibo)
+  - [03-Stopwatch](Swift30Projects/03-Stopwatch])
 
 ## Reference
 
